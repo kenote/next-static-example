@@ -2,6 +2,20 @@
 
 Next.js static website example.
 
+## Usage
+
+### devlop
+
+```bash
+$ npm run dev
+```
+
+### export static file
+
+```bash
+$ npm run export
+```
+
 ## License
 
 this repo is released under the [MIT License][licensed-url].
